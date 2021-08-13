@@ -1,0 +1,1 @@
+select number_plate,fuel_type from db.four_wheeler_fastag;
